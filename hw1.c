@@ -4,7 +4,7 @@ int main(void)
 {
 	int num1, num2;
 	int And, Or, Xor;
-	printf("µÎ Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä :");
+	printf("ë‘ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš” :");
 	scanf_s("%d %d", &num1, &num2);
 	And = num1 & num2;
 	printf("%d & %d = %d \n", num1, num2, And);
